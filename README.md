@@ -6,11 +6,11 @@
 
 
 ## Skills
--Java
--Game Development
--Linguistics
--Geospatial Technology
--Spanish Language (Stamp 4S certified)
+- Java
+- Game Development
+- Linguistics
+- Geospatial Technology
+- Spanish Language (Stamp 4S certified)
 
 ## Career Goals
 I'm planning to study linguistics at UCSD when I graduate,
